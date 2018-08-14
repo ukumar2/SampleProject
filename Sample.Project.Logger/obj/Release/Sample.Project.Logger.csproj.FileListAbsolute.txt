@@ -1,0 +1,4 @@
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.Logger\bin\Release\Sample.Project.Logger.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.Logger\bin\Release\Sample.Project.Logger.pdb
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.Logger\obj\Release\Sample.Project.Logger.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.Logger\obj\Release\Sample.Project.Logger.pdb

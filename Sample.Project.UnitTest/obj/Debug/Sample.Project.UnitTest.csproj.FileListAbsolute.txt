@@ -1,0 +1,16 @@
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.UnitTest\bin\Debug\Sample.Project.UnitTest.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.UnitTest\bin\Debug\Sample.Project.UnitTest.pdb
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.UnitTest\bin\Debug\Sample.Project.Api.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.UnitTest\bin\Debug\Sample.Project.Logger.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.UnitTest\bin\Debug\Sample.Project.Api.pdb
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.UnitTest\bin\Debug\Sample.Project.Logger.pdb
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.UnitTest\obj\Debug\Sample.Project.UnitTest.csprojResolveAssemblyReference.cache
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.UnitTest\obj\Debug\Sample.Project.UnitTest.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.UnitTest\obj\Debug\Sample.Project.UnitTest.pdb

@@ -1,0 +1,5 @@
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.Logger\bin\Debug\Sample.Project.Logger.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.Logger\bin\Debug\Sample.Project.Logger.pdb
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.Logger\obj\Debug\Sample.Project.Logger.csprojResolveAssemblyReference.cache
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.Logger\obj\Debug\Sample.Project.Logger.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.Logger\obj\Debug\Sample.Project.Logger.pdb

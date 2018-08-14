@@ -1,0 +1,10 @@
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.ConsoleApp\bin\Release\Sample.Project.ConsoleApp.exe.config
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.ConsoleApp\bin\Release\Sample.Project.ConsoleApp.exe
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.ConsoleApp\bin\Release\Sample.Project.ConsoleApp.pdb
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.ConsoleApp\obj\Release\Sample.Project.ConsoleApp.exe
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.ConsoleApp\obj\Release\Sample.Project.ConsoleApp.pdb
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.ConsoleApp\obj\Release\Sample.Project.ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.ConsoleApp\bin\Release\Sample.Project.Api.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.ConsoleApp\bin\Release\Sample.Project.Logger.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.ConsoleApp\bin\Release\Sample.Project.Api.pdb
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.ConsoleApp\bin\Release\Sample.Project.Logger.pdb

@@ -1,0 +1,7 @@
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.Api\bin\Release\Sample.Project.Api.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.Api\bin\Release\Sample.Project.Api.pdb
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.Api\bin\Release\Sample.Project.Logger.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.Api\bin\Release\Sample.Project.Logger.pdb
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.Api\obj\Release\Sample.Project.Api.csprojResolveAssemblyReference.cache
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.Api\obj\Release\Sample.Project.Api.dll
+c:\users\uttam\documents\visual studio 2017\Projects\Sample.Project\Sample.Project.Api\obj\Release\Sample.Project.Api.pdb
